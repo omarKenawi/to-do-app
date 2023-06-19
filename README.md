@@ -1,5 +1,5 @@
 # to_do_app
-A new Flutter project.
+A new Flutter project using BloC.
 ## all screens in this app
 ![Screenshot_1687145023](https://github.com/omarKenawi/to-do-app/assets/120571570/471244b7-4067-4452-a4a6-a64d3f43ca55)
 ![Screenshot_1687145027](https://github.com/omarKenawi/to-do-app/assets/120571570/694df611-9280-4c3b-85a3-3b59d0437341)
